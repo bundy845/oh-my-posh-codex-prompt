@@ -69,7 +69,6 @@ Concurrent sessions within the same project cannot be tied reliably to a particu
 
 ## License and origins
 
-Released under the [MIT License](LICENSE). This standalone helper adapts the Codex segment introduced by
-Rick Bundren in his Oh My Posh fork (commit `26dda446ba829863409eb705d4d9d46ff0ef2b24`). The license includes
-Rick's copyright notice and retains the original Oh My Posh copyright notice. This is an independent
+Released under the [MIT License](LICENSE). This standalone helper implements the Codex segment. The license includes
+bundy845's copyright notice and retains the original Oh My Posh copyright notice. This is an independent
 companion project, not an official Oh My Posh release.
